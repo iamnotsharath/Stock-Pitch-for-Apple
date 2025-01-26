@@ -3,3 +3,4 @@
 #Discuss the competitive landscape in which Apple and Samsung operate, including the strengths and weaknesses of other major players in the industry.
 #Evaluate how Apple and Samsung compare to their competitors in terms of market share, innovation, and other key factors.
 
+#Check how feasible it is to buy each of these stocks from future perspective
